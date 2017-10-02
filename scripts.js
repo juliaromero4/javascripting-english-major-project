@@ -1,15 +1,14 @@
-let turtles, sortedturtles, reversedturtles, turtlenames;
-turtles= ["leonardo", "donatello", "raphael", "michelangelo"];
-sortedturtles= turtles.sort();
-//sortedturtles is:
-//["donatello","leonardo","michelangelo","raphael"]
-reversedturtles=turtles.reverse();
-//reversedturtles is:
-//["raphael","michelangelo","leonardo","donatello"]
-turtlenames=turtles.join(" ");
-//turtlesnames is "leonardo donatello raphael michelangelo"
-turtles.push("splinter");
-//turtles is now:
-//["leonardo","donatello","raphael","michelangelo","splinter"]
-turtles.pop();
-//back to ["leonardo","donatello","raphael","michelangelo"]
+let string, firstletter, stringlength;
+string="this is a string.";
+//strings have indices and lengths, just like arrays:
+firstletter=string[0];
+//firstletter is "T"
+stringlength=string.length;
+//stringlength is 17
+//
+//strings also have methods, just like arrays:
+let uppercasestring, replacedstring;
+uppercasestring=string.touppercase();
+//uppercasestring is "THIS IS A STRING."
+replacedstring=string.replace("string","pipe");
+//replacedstring is "this is a pipe."
