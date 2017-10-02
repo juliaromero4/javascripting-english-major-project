@@ -1,13 +1,5 @@
-let tipcalculator;
-tipcalculator=function(total, tiprate){
-  //step 1:
-  let tipamount;
-  tipamount=tiprate * total;
-  // and step 2:
-  $("#response").html("your tip is $"+tipamount);
-}
-
-//now call (or "execute") the function, passing a
-//total of $50.00 and a tiprate of .2
-
-tipcalculator(50.00, 0.2);
+let arrayofstrings, arrayofnumbers, arraymixed;
+arrayofstrings= ["a","b","c"];
+arrayofnumbers= [1,2,3];
+arraymixed= ["a",1,null,true,arrayofnumbers,[4.5, 5.6]];
+$("#response").html(arrayofstrings[2]);
