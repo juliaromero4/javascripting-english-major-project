@@ -7,14 +7,14 @@ L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x
       maxZoom: 18
     });
     tileLayer.addTo(firstMap);
-    firstMap.setView([40.71322, -74.00400], 16);
+firstMap.setView([40.71322, -74.00400], 16);
 let Derive1;
 Derive1 = L.marker([40.71322, -74.00400]);
 Derive1.addTo(firstMap);
 Derive1.bindPopup("This is the start of my first derive.");
 let derive1Coords, tenthousandth, tenthousandthline, thousandth, thousandthPolyline;
 derive1Coords = L.latLng(40.71322, -74.00400);
-
+firstMap.panTo(derive1Coords);
 let brooklynbridge, brooklynbridgemarker;
 brooklynbridge=L.latLng(40.71322,-74.00400);
 brooklynbridgemarker=L.marker(brooklynbridge).addTo(firstMap);
@@ -32,7 +32,7 @@ derive2.addTo(firstMap);
 derive2.bindPopup("This is the start of my second derive.");
 let derive2Coords;
 derive2Coords= L.latLng(40.73180,-74.00421);
-
+firstMap.panTo(derive2Coords);
 tenthousandth= [[40.73180,-74.00421],[40.73155,-74.00481],[40.73189,-74.00506],[40.73167,-74.00655],[40.72955,-74.00689],[40.72944,-74.00519],[40.72861,-74.00532],[40.72867,-74.00708],
 [40.72724,-74.00734],[40.72695,-74.00356],[40.72571,-74.00084],[40.72451,-74.00193],[40.72199,-73.99625],[40.72576,-73.99444],[40.72653,-73.99586],[40.72425,-73.99775]];
 tenthousandthline= L.polyline(tenthousandth, {
