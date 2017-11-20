@@ -1,0 +1,137 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.90866,43.97799 ]
+    },
+    "properties": {
+    "name":"Watertown",
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Publicsquareeast2008.JPG/1024px-Publicsquareeast2008.JPG",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.54093,43.45426 ]
+    },
+    "properties": {
+    "name":"Oswego",
+    "picture":"https://www.oswego.edu/sites/default/files/applyforadmissionimage.jpg",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.52642,42.38987 ]
+    },
+    "properties": {
+    "name":"UMass",
+    "picture":"http://www.gazettenet.com/getattachment/e83638be-ab83-4cee-b3f3-335704c262c3/BRF-UMass-Tuition-HG-070116-ph01",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9694,40.78522 ]
+    },
+    "properties": {
+    "name":"Murray's Apartment",
+    "picture":"https://images.contentful.com/ypfe9l9zihcg/3vqg9vDRLaIiWikq2mC0aY/6a44099b8530cbc643e852a7b145cdf2/upper_west_side_around_the_block_the_rental_market_2.jpg?fm=jpg&fl=progressive&q=85&w=900",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98268,40.71801 ]
+    },
+    "properties": {
+    "name":"Pitt Street",
+    "picture":"https://aa16bc0c2c861be5a723-cf611e90dc3331dff60ec13c99d28db3.ssl.cf1.rackcdn.com/user_files/building/378x281/57-pitt-street-manhattan-ny-001.jpg",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97341,40.68669 ]
+    },
+    "properties": {
+    "name":"South Oxford Street",
+    "picture":"https://newyorkyimby.com/wp-content/uploads/2015/03/164-S-Oxford_1-e1426547608699.jpg",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":""
+    }
+  }
+]
+}
