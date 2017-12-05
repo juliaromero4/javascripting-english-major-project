@@ -9,18 +9,7 @@
     },
     "properties": {
     "name":"Watertown",
-    "picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Publicsquareeast2008.JPG/1024px-Publicsquareeast2008.JPG",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":""
+    "picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Publicsquareeast2008.JPG/1024px-Publicsquareeast2008.JPG"
     }
   },
   {
@@ -31,18 +20,7 @@
     },
     "properties": {
     "name":"Oswego",
-    "picture":"https://www.oswego.edu/sites/default/files/applyforadmissionimage.jpg",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":""
+    "picture":"https://www.oswego.edu/sites/default/files/applyforadmissionimage.jpg"
     }
   },
   {
@@ -53,18 +31,7 @@
     },
     "properties": {
     "name":"UMass",
-    "picture":"http://www.gazettenet.com/getattachment/e83638be-ab83-4cee-b3f3-335704c262c3/BRF-UMass-Tuition-HG-070116-ph01",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":""
+    "picture":"http://www.gazettenet.com/getattachment/e83638be-ab83-4cee-b3f3-335704c262c3/BRF-UMass-Tuition-HG-070116-ph01"
     }
   },
   {
@@ -75,18 +42,7 @@
     },
     "properties": {
     "name":"Murray's Apartment",
-    "picture":"https://images.contentful.com/ypfe9l9zihcg/3vqg9vDRLaIiWikq2mC0aY/6a44099b8530cbc643e852a7b145cdf2/upper_west_side_around_the_block_the_rental_market_2.jpg?fm=jpg&fl=progressive&q=85&w=900",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":""
+    "picture":"https://images.contentful.com/ypfe9l9zihcg/3vqg9vDRLaIiWikq2mC0aY/6a44099b8530cbc643e852a7b145cdf2/upper_west_side_around_the_block_the_rental_market_2.jpg?fm=jpg&fl=progressive&q=85&w=900"
     }
   },
   {
@@ -97,18 +53,7 @@
     },
     "properties": {
     "name":"Pitt Street",
-    "picture":"https://aa16bc0c2c861be5a723-cf611e90dc3331dff60ec13c99d28db3.ssl.cf1.rackcdn.com/user_files/building/378x281/57-pitt-street-manhattan-ny-001.jpg",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":""
+    "picture":"https://aa16bc0c2c861be5a723-cf611e90dc3331dff60ec13c99d28db3.ssl.cf1.rackcdn.com/user_files/building/378x281/57-pitt-street-manhattan-ny-001.jpg"
     }
   },
   {
@@ -119,19 +64,19 @@
     },
     "properties": {
     "name":"South Oxford Street",
-    "picture":"https://newyorkyimby.com/wp-content/uploads/2015/03/164-S-Oxford_1-e1426547608699.jpg",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":""
+    "picture":"https://newyorkyimby.com/wp-content/uploads/2015/03/164-S-Oxford_1-e1426547608699.jpg"
     }
-  }
+  },
+  {
+    "type": "feature",
+    "geometry": {
+      "type": "point",
+      "coordinates": [ -80.19341,25.77431 ]
+    },
+    "properties": {
+      "name":"Miami Florida",
+      "picture":"https://cjastudy.fd.org/sites/default/files/public-hearings/public-hearing-miami-florida/Miami-Public-Hearing.jpg"
+    }
+  },
 ]
-}
+};
