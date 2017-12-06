@@ -68,15 +68,15 @@
     }
   },
   {
-    "type": "feature",
+    "type": "Feature",
     "geometry": {
-      "type": "point",
+      "type": "Point",
       "coordinates": [ -80.19341,25.77431 ]
     },
     "properties": {
       "name":"Miami Florida",
       "picture":"https://cjastudy.fd.org/sites/default/files/public-hearings/public-hearing-miami-florida/Miami-Public-Hearing.jpg"
     }
-  },
-]
-};
+  }
+]  
+}
