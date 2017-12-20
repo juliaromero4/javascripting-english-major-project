@@ -1,5 +1,6 @@
 ## Watertown
 
-Watertown is a town in northern New York, not far from the Canadian border.
+Watertown is a small town located in upstate New York and where Bootie grew up. In 2001, Watertown had 33,000 people. Watertown is also home to the longest lasting county fair, and it is the birthplace of the safety pin. To Bootie, Watertown will always be the town where he can not do anything great, but it will also always be the place he has to deal with his mother. Bootie describes the need to get away from Watertown and his mother, saying “I will shuck this life, like a snake shedding its skin, and with it the great, fingering neediness of his mother” (Page 61). Bootie’s restless need to escape his life in Watertown emphasizes Bootie’s need to make something out of himself, as he believes Watertown is to small a city to fulfill his grand ideas. Bootie even goes a step further to idolize his mother’s brother so ardently that he leaves his house in Watertown without a word to his mother, to find the wisdom and experience that he believes his uncle can bestow upon him. The new information we have received about Bootie’s character let us know that Bootie is ungrateful for the things his mother does for him and his arrogance continues to drive his actions.
 
-this is a [link](http://en.wikipedia.org/wiki/Watertown)
+This is a
+[link](https://en.wikipedia.org/wiki/Watertown_(city),_New_York)
