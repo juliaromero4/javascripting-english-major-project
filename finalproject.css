@@ -1,0 +1,25 @@
+.map {
+  height: 400px;
+}
+
+#title, h2, h1 {
+  color: #EA8B29;
+}
+
+#introduction, #content {
+  color: #532F0B;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+body {
+  font-family: "Indie+Flower";
+}
+
+.leaflet-container {
+  font-family: "Indie+Flower";
+}
+
+body,.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background-color:#fdf6e3;
+}
